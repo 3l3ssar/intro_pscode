@@ -1,0 +1,9 @@
+# start the game loop until player chooses to quit generate a random 
+# number between 1 and 10 (correctnumber) give player 3 tries while the 
+# player still has tries left prompt player to guess a number 
+# (playerguess) if they guess right say "Great job!" and stop the loop 
+# if they don't guess right say "Please try again" after 3 guesses if 
+# they haven't guessed (correctnumber) say "Game over, the correct number was (correctnumber)"
+# ask the player "would you like to try again?"
+# if player input says "no" stop the loop and say "thanks for playing" and stop the game
+

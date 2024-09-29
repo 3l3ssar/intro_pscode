@@ -1,0 +1,35 @@
+# start the app
+# set up a warehouse map with 12 aisles (6 on each side)
+# place entrance/exit on the east wall in the north corner
+# let the customer start somewhere on the map
+# while the customer hasn't found the spot:
+# ask which direction they want to move (north, south, east, west)
+# if they want to move north:
+# if they're already on the northern edge:
+# say "you can't go north anymore, please turn around"
+# otherwise:
+# move north by one space
+# if they want to move south:
+# if they're already on the southern edge:
+# say "you can't go south anymore, please turn around"
+# otherwise:
+# move south by one space
+# if they want to move east:
+# if they're already on the eastern edge:
+# say "you can't go east anymore, please turn around"
+# otherwise:
+# move east by one space
+# if they want to move west:
+# if they're already on the western edge:
+# say "you can't go west anymore, please turn around"
+# otherwise:
+# move west by one space
+# if they reach the correct location:
+# say "x marks the spot!"
+# ask if they want to search for a new location or quit
+# if they want to quit:
+# say "thank you for using Find the Spot! Goodbye!" 
+# end the app
+# otherwise:
+# reset the map and start again
+# end the app
