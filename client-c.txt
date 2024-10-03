@@ -1,4 +1,18 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+# start program
+# set up a counter starting at 2
+# while the counter is less than or equal to 50:
+# print the current count
+# add 2 to the counter
+# when the counter reaches 50:
+# say "the case is full! time to move on to the next case"
+# ask if the user wants to restart for a new case
+# if yes:
+# reset the counter to 2 and start again
+# if no:
+# end program
+# otherwise:
+# say "keep counter, the case isn't full yet"
+# end program
